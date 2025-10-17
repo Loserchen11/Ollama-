@@ -1,5 +1,4 @@
-# Ollama-
-新版Ollama更改模型安装位置/r
+# 新版Ollama更改模型安装位置
 
 本文撰写时间2025.10.17
 
@@ -14,5 +13,5 @@
 <img width="1000" height="749" alt="ollama2" src="https://github.com/user-attachments/assets/e39c93ea-fea5-4141-a89e-63519d2c9e2b" />
 
 自己更改为想要的路径
-/r
+
 ## 以前的版本中，需要手动去修改OLLAMA_MOELES这个系统变量，现在已经不用了
